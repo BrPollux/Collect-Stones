@@ -1,0 +1,20 @@
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.exe.config
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.exe
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.pdb
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csprojAssemblyReference.cache
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş_Toplama_Ödevi.Form1.resources
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş_Toplama_Ödevi.Properties.Resources.resources
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csproj.GenerateResource.cache
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.exe
+C:\Users\Samed\source\repos\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.pdb
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.exe.config
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.exe
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\bin\Debug\Taş Toplama Ödevi.pdb
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csprojAssemblyReference.cache
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş_Toplama_Ödevi.Form1.resources
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş_Toplama_Ödevi.Properties.Resources.resources
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.exe
+C:\Users\Samed\Desktop\3.Sınıf\Projeler\Vize\Yazılım Sınama Ödev Teslim\Ödev 1\Taş Toplama Ödevi\Taş Toplama Ödevi\obj\Debug\Taş Toplama Ödevi.pdb
